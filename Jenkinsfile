@@ -1,4 +1,4 @@
-Jenkinsfile(Declarative Pipeline) 
+Jenkinsfile(test-pipeline) 
 pipeline{
 	agent any
 	stages{
